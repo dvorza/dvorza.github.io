@@ -2,7 +2,7 @@
 
 А тут нет никакого дворца!
 
-https://www.youtube.com/watch?v=dDzEASs_2Jo
+[https://www.youtube.com/watch?v=dDzEASs_2Jo](https://www.youtube.com/watch?v=dDzEASs_2Jo)
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
